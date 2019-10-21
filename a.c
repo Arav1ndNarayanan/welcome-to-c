@@ -2,8 +2,8 @@
 
 int main()
 {
-    int n,c;
-  printf("%d\a",n+c);
+    
+  printf("hello world");
 
     return 0;
 }
