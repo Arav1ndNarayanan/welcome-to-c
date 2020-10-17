@@ -1,2 +1,2 @@
 # welcome-to-c
-A C program
+A C program to print hello world
